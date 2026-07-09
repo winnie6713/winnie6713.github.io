@@ -21,6 +21,27 @@ window.NOTES = [
     desc: "单家公司研究模板，7问填空框架，可复用到其他公司。"
   },
   {
+    file: "tsm-research.md",
+    title: "台积电 TSM 研究（模板）",
+    date: "2026-07-09",
+    category: "公司深度",
+    desc: "7问框架，客观数据已自动填充（注意台积电以新台币计）。"
+  },
+  {
+    file: "avgo-research.md",
+    title: "博通 AVGO 研究（模板）",
+    date: "2026-07-09",
+    category: "公司深度",
+    desc: "7问框架，客观数据已自动填充。"
+  },
+  {
+    file: "msft-research.md",
+    title: "微软 MSFT 研究（模板）",
+    date: "2026-07-09",
+    category: "公司深度",
+    desc: "7问框架，客观数据已自动填充。"
+  },
+  {
     file: "meigu-basics.md",
     title: "美股基础：从零看懂一只股票",
     date: "2026-07-06",
