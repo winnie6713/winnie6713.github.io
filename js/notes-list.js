@@ -7,6 +7,20 @@
 //   desc:     一句话简介（可选）
 window.NOTES = [
   {
+    file: "ai-value-chain.md",
+    title: "AI 产业链全景：从三层楼看懂美股 AI",
+    date: "2026-07-09",
+    category: "AI产业链",
+    desc: "五层结构地图，搞清每层卖什么给谁、钱怎么流动。"
+  },
+  {
+    file: "nvda-research.md",
+    title: "英伟达 NVDA 研究（模板）",
+    date: "2026-07-09",
+    category: "公司深度",
+    desc: "单家公司研究模板，7问填空框架，可复用到其他公司。"
+  },
+  {
     file: "meigu-basics.md",
     title: "美股基础：从零看懂一只股票",
     date: "2026-07-06",

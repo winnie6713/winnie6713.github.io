@@ -56,8 +56,33 @@
         { "name": "江波龙", "code": "301308", "yahoo": "301308.SZ", "market": "A股" }
       ]}
     ]},
-    { "id": "05", "name": "光连接与光模块（衬底→芯片→模块→CPO）", "groups": [] },
-    { "id": "06", "name": "云与 AI 算力数据中心", "groups": [] },
+    { "id": "05", "name": "光连接与光模块（衬底→芯片→模块→CPO）", "groups": [
+      { "name": "海外光模块/光器件", "tickers": [
+        { "name": "Coherent", "code": "COHR", "yahoo": "COHR", "market": "美股" },
+        { "name": "Lumentum", "code": "LITE", "yahoo": "LITE", "market": "美股" },
+        { "name": "Fabrinet", "code": "FN", "yahoo": "FN", "market": "美股" },
+        { "name": "Ciena", "code": "CIEN", "yahoo": "CIEN", "market": "美股" }
+      ]},
+      { "name": "国内光模块（A股）", "tickers": [
+        { "name": "中际旭创", "code": "300308", "yahoo": "300308.SZ", "market": "A股" },
+        { "name": "新易盛", "code": "300502", "yahoo": "300502.SZ", "market": "A股" },
+        { "name": "天孚通信", "code": "300394", "yahoo": "300394.SZ", "market": "A股" }
+      ]}
+    ]},
+    { "id": "06", "name": "云与 AI 算力数据中心", "groups": [
+      { "name": "超大规模云厂", "tickers": [
+        { "name": "微软", "code": "MSFT", "yahoo": "MSFT", "market": "美股" },
+        { "name": "谷歌", "code": "GOOGL", "yahoo": "GOOGL", "market": "美股" },
+        { "name": "亚马逊", "code": "AMZN", "yahoo": "AMZN", "market": "美股" },
+        { "name": "甲骨文", "code": "ORCL", "yahoo": "ORCL", "market": "美股" }
+      ]},
+      { "name": "AI 云新势力与算力配套", "tickers": [
+        { "name": "CoreWeave", "code": "CRWV", "yahoo": "CRWV", "market": "美股" },
+        { "name": "Vertiv（供电散热）", "code": "VRT", "yahoo": "VRT", "market": "美股" },
+        { "name": "戴尔", "code": "DELL", "yahoo": "DELL", "market": "美股" },
+        { "name": "超微电脑", "code": "SMCI", "yahoo": "SMCI", "market": "美股" }
+      ]}
+    ]},
     { "id": "07", "name": "半导体设备", "groups": [] },
     { "id": "08", "name": "半导体材料", "groups": [] },
     { "id": "09", "name": "封装测试（OSAT 与先进封装）", "groups": [] }
