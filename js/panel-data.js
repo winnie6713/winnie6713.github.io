@@ -1,7 +1,7 @@
 // ===== 数据面板：由 scripts/fetch_data.py 自动生成，请勿手改 =====
 // 要改抓取哪些标的，编辑 scripts/tickers.json
 window.PANEL = {
-  "updated": "2026-09-11 23:40",
+  "updated": "2026-09-15 00:04",
   "note": "数据来自雅虎财经，每日自动更新，仅供学习参考",
   "sectors": [
     {
@@ -94,7 +94,7 @@ window.PANEL = {
               "name": "苹果",
               "code": "AAPL",
               "market": "美股",
-              "pos52": 92.9,
+              "pos52": 92.8,
               "drawdown": -2.2,
               "m1": 9.9,
               "m3": 12.5
@@ -191,7 +191,7 @@ window.PANEL = {
               "name": "台积电",
               "code": "TSM",
               "market": "美股",
-              "pos52": 79.9,
+              "pos52": 79.8,
               "drawdown": -9.3,
               "m1": 1.0,
               "m3": 2.9
@@ -200,7 +200,7 @@ window.PANEL = {
               "name": "英特尔",
               "code": "INTC",
               "market": "美股",
-              "pos52": 67.5,
+              "pos52": 67.3,
               "drawdown": -27.0,
               "m1": 2.0,
               "m3": -12.0
@@ -220,10 +220,10 @@ window.PANEL = {
               "name": "SK海力士",
               "code": "000660.KS",
               "market": "韩国",
-              "pos52": 57.6,
-              "drawdown": -37.9,
-              "m1": 20.5,
-              "m3": -15.7
+              "pos52": 52.8,
+              "drawdown": -41.9,
+              "m1": 6.6,
+              "m3": -25.8
             },
             {
               "name": "美光科技",
@@ -238,19 +238,19 @@ window.PANEL = {
               "name": "三星电子",
               "code": "005930",
               "market": "韩国",
-              "pos52": 64.6,
-              "drawdown": -28.3,
-              "m1": 1.6,
-              "m3": -19.4
+              "pos52": 60.5,
+              "drawdown": -31.2,
+              "m1": -7.1,
+              "m3": -26.0
             },
             {
               "name": "南方两倍做多海力士",
               "code": "07709",
               "market": "港股",
-              "pos52": 18.9,
-              "drawdown": -76.5,
-              "m1": 39.9,
-              "m3": -58.4
+              "pos52": 18.2,
+              "drawdown": -77.1,
+              "m1": 27.7,
+              "m3": -59.8
             },
             {
               "name": "Roundhill Memory ETF",
@@ -271,25 +271,25 @@ window.PANEL = {
               "name": "铠侠",
               "code": "285A",
               "market": "日股",
-              "pos52": 47.8,
-              "drawdown": -50.3,
-              "m1": 4.3,
-              "m3": -33.5
+              "pos52": 44.3,
+              "drawdown": -53.5,
+              "m1": -5.9,
+              "m3": -44.4
             },
             {
               "name": "铠侠 ADR",
               "code": "KXIAY",
               "market": "美股",
-              "pos52": 47.4,
-              "drawdown": -49.5,
-              "m1": 9.2,
-              "m3": -30.7
+              "pos52": 43.5,
+              "drawdown": -53.2,
+              "m1": -7.1,
+              "m3": -37.7
             },
             {
               "name": "闪迪",
               "code": "SNDK",
               "market": "美股",
-              "pos52": 68.8,
+              "pos52": 68.7,
               "drawdown": -30.0,
               "m1": 21.5,
               "m3": -13.2
@@ -303,7 +303,7 @@ window.PANEL = {
               "name": "希捷科技",
               "code": "STX",
               "market": "美股",
-              "pos52": 70.7,
+              "pos52": 70.2,
               "drawdown": -24.1,
               "m1": -5.5,
               "m3": -4.3
@@ -312,7 +312,7 @@ window.PANEL = {
               "name": "西部数据",
               "code": "WDC",
               "market": "美股",
-              "pos52": 53.9,
+              "pos52": 53.7,
               "drawdown": -40.1,
               "m1": -1.5,
               "m3": -15.5
@@ -326,10 +326,10 @@ window.PANEL = {
               "name": "江波龙",
               "code": "301308",
               "market": "A股",
-              "pos52": 38.7,
-              "drawdown": -53.0,
-              "m1": -14.5,
-              "m3": -35.8
+              "pos52": 35.9,
+              "drawdown": -54.2,
+              "m1": -18.6,
+              "m3": -38.7
             }
           ]
         }
@@ -346,7 +346,7 @@ window.PANEL = {
               "name": "Coherent",
               "code": "COHR",
               "market": "美股",
-              "pos52": 62.5,
+              "pos52": 62.4,
               "drawdown": -28.5,
               "m1": -14.1,
               "m3": -16.0
@@ -373,7 +373,7 @@ window.PANEL = {
               "name": "Ciena",
               "code": "CIEN",
               "market": "美股",
-              "pos52": 44.0,
+              "pos52": 43.5,
               "drawdown": -44.3,
               "m1": -19.1,
               "m3": -21.5
@@ -387,28 +387,28 @@ window.PANEL = {
               "name": "中际旭创",
               "code": "300308",
               "market": "A股",
-              "pos52": 56.0,
-              "drawdown": -33.0,
-              "m1": 0.5,
-              "m3": -25.6
+              "pos52": 50.9,
+              "drawdown": -36.8,
+              "m1": -7.4,
+              "m3": -30.1
             },
             {
               "name": "新易盛",
               "code": "300502",
               "market": "A股",
-              "pos52": 53.3,
-              "drawdown": -30.7,
-              "m1": -1.6,
-              "m3": -21.7
+              "pos52": 48.1,
+              "drawdown": -34.2,
+              "m1": -10.3,
+              "m3": -26.8
             },
             {
               "name": "天孚通信",
               "code": "300394",
               "market": "A股",
-              "pos52": 63.3,
-              "drawdown": -26.1,
-              "m1": 1.9,
-              "m3": -14.1
+              "pos52": 61.3,
+              "drawdown": -27.5,
+              "m1": -4.0,
+              "m3": -20.9
             }
           ]
         }
@@ -475,7 +475,7 @@ window.PANEL = {
               "name": "Vertiv（供电散热）",
               "code": "VRT",
               "market": "美股",
-              "pos52": 50.7,
+              "pos52": 50.3,
               "drawdown": -31.7,
               "m1": -10.9,
               "m3": -13.7
