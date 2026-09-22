@@ -1,7 +1,7 @@
 // ===== 数据面板：由 scripts/fetch_data.py 自动生成，请勿手改 =====
 // 要改抓取哪些标的，编辑 scripts/tickers.json
 window.PANEL = {
-  "updated": "2026-09-18 23:43",
+  "updated": "2026-09-22 00:21",
   "note": "数据来自雅虎财经，每日自动更新，仅供学习参考",
   "sectors": [
     {
@@ -15,10 +15,10 @@ window.PANEL = {
               "name": "标普500 ETF",
               "code": "SPY",
               "market": "美股",
-              "pos52": 89.0,
-              "drawdown": -2.1,
-              "m1": -1.0,
-              "m3": 2.0
+              "pos52": 90.3,
+              "drawdown": -1.8,
+              "m1": -0.7,
+              "m3": 2.3
             },
             {
               "name": "纳指100 ETF",
@@ -33,10 +33,10 @@ window.PANEL = {
               "name": "道指 ETF",
               "code": "DIA",
               "market": "美股",
-              "pos52": 71.6,
-              "drawdown": -4.9,
-              "m1": -3.4,
-              "m3": 0.2
+              "pos52": 72.8,
+              "drawdown": -4.7,
+              "m1": -3.1,
+              "m3": 0.4
             },
             {
               "name": "罗素2000 ETF",
@@ -56,7 +56,7 @@ window.PANEL = {
               "name": "半导体 ETF",
               "code": "SMH",
               "market": "美股",
-              "pos52": 72.9,
+              "pos52": 72.5,
               "drawdown": -14.3,
               "m1": 2.2,
               "m3": -13.2
@@ -130,8 +130,8 @@ window.PANEL = {
               "name": "Meta",
               "code": "META",
               "market": "美股",
-              "pos52": 56.1,
-              "drawdown": -14.2,
+              "pos52": 59.1,
+              "drawdown": -12.8,
               "m1": 21.9,
               "m3": 15.3
             },
@@ -191,7 +191,7 @@ window.PANEL = {
               "name": "台积电",
               "code": "TSM",
               "market": "美股",
-              "pos52": 80.6,
+              "pos52": 79.8,
               "drawdown": -8.7,
               "m1": 5.8,
               "m3": -5.7
@@ -220,10 +220,10 @@ window.PANEL = {
               "name": "SK海力士",
               "code": "000660.KS",
               "market": "韩国",
-              "pos52": 58.9,
-              "drawdown": -36.4,
-              "m1": 9.8,
-              "m3": -32.8
+              "pos52": 61.2,
+              "drawdown": -34.3,
+              "m1": 14.7,
+              "m3": -25.0
             },
             {
               "name": "美光科技",
@@ -238,19 +238,19 @@ window.PANEL = {
               "name": "三星电子",
               "code": "005930",
               "market": "韩国",
-              "pos52": 64.2,
-              "drawdown": -27.9,
-              "m1": -3.7,
-              "m3": -26.2
+              "pos52": 71.7,
+              "drawdown": -21.8,
+              "m1": 10.1,
+              "m3": -8.6
             },
             {
               "name": "南方两倍做多海力士",
               "code": "07709",
               "market": "港股",
-              "pos52": 16.3,
-              "drawdown": -79.0,
-              "m1": 8.3,
-              "m3": -75.5
+              "pos52": 18.5,
+              "drawdown": -76.9,
+              "m1": 15.0,
+              "m3": -76.9
             },
             {
               "name": "Roundhill Memory ETF",
@@ -280,10 +280,10 @@ window.PANEL = {
               "name": "铠侠 ADR",
               "code": "KXIAY",
               "market": "美股",
-              "pos52": 49.1,
-              "drawdown": -48.0,
-              "m1": 13.2,
-              "m3": -42.1
+              "pos52": 50.7,
+              "drawdown": -46.4,
+              "m1": 15.2,
+              "m3": -46.4
             },
             {
               "name": "闪迪",
@@ -326,10 +326,10 @@ window.PANEL = {
               "name": "江波龙",
               "code": "301308",
               "market": "A股",
-              "pos52": 38.3,
-              "drawdown": -52.0,
-              "m1": -8.5,
-              "m3": -41.8
+              "pos52": 35.6,
+              "drawdown": -51.9,
+              "m1": -8.6,
+              "m3": -43.9
             }
           ]
         }
@@ -387,28 +387,28 @@ window.PANEL = {
               "name": "中际旭创",
               "code": "300308",
               "market": "A股",
-              "pos52": 56.0,
-              "drawdown": -33.0,
-              "m1": 2.5,
-              "m3": -29.3
+              "pos52": 57.4,
+              "drawdown": -31.9,
+              "m1": -0.2,
+              "m3": -28.3
             },
             {
               "name": "新易盛",
               "code": "300502",
               "market": "A股",
-              "pos52": 58.8,
-              "drawdown": -27.1,
-              "m1": 7.5,
-              "m3": -19.4
+              "pos52": 61.7,
+              "drawdown": -25.2,
+              "m1": 3.3,
+              "m3": -17.8
             },
             {
               "name": "天孚通信",
               "code": "300394",
               "market": "A股",
-              "pos52": 72.5,
-              "drawdown": -19.5,
-              "m1": 3.2,
-              "m3": -8.3
+              "pos52": 70.3,
+              "drawdown": -21.1,
+              "m1": 2.5,
+              "m3": -14.0
             }
           ]
         }
