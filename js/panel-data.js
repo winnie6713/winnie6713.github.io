@@ -1,7 +1,7 @@
 // ===== 数据面板：由 scripts/fetch_data.py 自动生成，请勿手改 =====
 // 要改抓取哪些标的，编辑 scripts/tickers.json
 window.PANEL = {
-  "updated": "2026-09-22 23:54",
+  "updated": "2026-09-24 00:05",
   "note": "数据来自雅虎财经，每日自动更新，仅供学习参考",
   "sectors": [
     {
@@ -33,10 +33,10 @@ window.PANEL = {
               "name": "道指 ETF",
               "code": "DIA",
               "market": "美股",
-              "pos52": 75.1,
-              "drawdown": -4.3,
-              "m1": -2.4,
-              "m3": 0.6
+              "pos52": 77.0,
+              "drawdown": -3.9,
+              "m1": -1.2,
+              "m3": 0.9
             },
             {
               "name": "罗素2000 ETF",
@@ -65,10 +65,10 @@ window.PANEL = {
               "name": "科技 ETF",
               "code": "XLK",
               "market": "美股",
-              "pos52": 97.9,
-              "drawdown": -0.7,
-              "m1": 7.2,
-              "m3": 6.7
+              "pos52": 95.9,
+              "drawdown": -1.5,
+              "m1": 6.5,
+              "m3": 1.5
             }
           ]
         }
@@ -200,7 +200,7 @@ window.PANEL = {
               "name": "英特尔",
               "code": "INTC",
               "market": "美股",
-              "pos52": 84.7,
+              "pos52": 84.4,
               "drawdown": -12.1,
               "m1": 37.5,
               "m3": -6.4
@@ -220,10 +220,10 @@ window.PANEL = {
               "name": "SK海力士",
               "code": "000660.KS",
               "market": "韩国",
-              "pos52": 58.2,
-              "drawdown": -37.0,
-              "m1": 10.1,
-              "m3": -28.0
+              "pos52": 59.1,
+              "drawdown": -36.2,
+              "m1": 11.0,
+              "m3": -28.9
             },
             {
               "name": "美光科技",
@@ -238,19 +238,19 @@ window.PANEL = {
               "name": "三星电子",
               "code": "005930",
               "market": "韩国",
-              "pos52": 69.4,
-              "drawdown": -23.6,
-              "m1": 7.6,
-              "m3": -10.7
+              "pos52": 72.6,
+              "drawdown": -21.2,
+              "m1": 11.1,
+              "m3": -16.1
             },
             {
               "name": "南方两倍做多海力士",
               "code": "07709",
               "market": "港股",
-              "pos52": 19.0,
-              "drawdown": -76.4,
-              "m1": 11.8,
-              "m3": -69.2
+              "pos52": 18.0,
+              "drawdown": -77.4,
+              "m1": 15.8,
+              "m3": -72.4
             },
             {
               "name": "Roundhill Memory ETF",
@@ -280,10 +280,10 @@ window.PANEL = {
               "name": "铠侠 ADR",
               "code": "KXIAY",
               "market": "美股",
-              "pos52": 50.6,
-              "drawdown": -46.5,
-              "m1": 15.0,
-              "m3": -46.5
+              "pos52": 50.3,
+              "drawdown": -46.8,
+              "m1": 19.4,
+              "m3": -32.4
             },
             {
               "name": "闪迪",
@@ -303,10 +303,10 @@ window.PANEL = {
               "name": "希捷科技",
               "code": "STX",
               "market": "美股",
-              "pos52": 80.4,
-              "drawdown": -15.9,
-              "m1": 8.2,
-              "m3": -11.4
+              "pos52": 75.5,
+              "drawdown": -19.8,
+              "m1": 3.2,
+              "m3": -19.8
             },
             {
               "name": "西部数据",
@@ -326,10 +326,10 @@ window.PANEL = {
               "name": "江波龙",
               "code": "301308",
               "market": "A股",
-              "pos52": 35.7,
-              "drawdown": -51.8,
-              "m1": -4.6,
-              "m3": -48.6
+              "pos52": 35.2,
+              "drawdown": -52.2,
+              "m1": -6.4,
+              "m3": -49.1
             }
           ]
         }
@@ -364,19 +364,19 @@ window.PANEL = {
               "name": "Fabrinet",
               "code": "FN",
               "market": "美股",
-              "pos52": 11.6,
-              "drawdown": -45.9,
-              "m1": -7.5,
-              "m3": -30.8
+              "pos52": 11.0,
+              "drawdown": -46.2,
+              "m1": -9.7,
+              "m3": -34.9
             },
             {
               "name": "Ciena",
               "code": "CIEN",
               "market": "美股",
-              "pos52": 47.2,
-              "drawdown": -41.2,
-              "m1": -6.9,
-              "m3": -19.9
+              "pos52": 46.7,
+              "drawdown": -41.6,
+              "m1": -6.8,
+              "m3": -20.5
             }
           ]
         },
@@ -387,28 +387,28 @@ window.PANEL = {
               "name": "中际旭创",
               "code": "300308",
               "market": "A股",
-              "pos52": 56.1,
-              "drawdown": -32.9,
-              "m1": 6.6,
-              "m3": -29.9
+              "pos52": 55.6,
+              "drawdown": -33.3,
+              "m1": 9.0,
+              "m3": -26.4
             },
             {
               "name": "新易盛",
               "code": "300502",
               "market": "A股",
-              "pos52": 61.3,
-              "drawdown": -25.5,
-              "m1": 10.4,
-              "m3": -25.5
+              "pos52": 60.3,
+              "drawdown": -26.1,
+              "m1": 12.6,
+              "m3": -20.3
             },
             {
               "name": "天孚通信",
               "code": "300394",
               "market": "A股",
-              "pos52": 69.0,
-              "drawdown": -22.0,
-              "m1": 10.8,
-              "m3": -19.2
+              "pos52": 68.8,
+              "drawdown": -22.2,
+              "m1": 7.3,
+              "m3": -13.2
             }
           ]
         }
@@ -475,10 +475,10 @@ window.PANEL = {
               "name": "Vertiv（供电散热）",
               "code": "VRT",
               "market": "美股",
-              "pos52": 48.4,
-              "drawdown": -32.6,
-              "m1": -3.2,
-              "m3": -20.4
+              "pos52": 47.3,
+              "drawdown": -33.3,
+              "m1": -5.2,
+              "m3": -29.9
             },
             {
               "name": "戴尔",
