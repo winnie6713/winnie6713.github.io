@@ -1,7 +1,7 @@
 // ===== 数据面板：由 scripts/fetch_data.py 自动生成，请勿手改 =====
 // 要改抓取哪些标的，编辑 scripts/tickers.json
 window.PANEL = {
-  "updated": "2026-10-07 01:06",
+  "updated": "2026-10-08 01:25",
   "note": "数据来自雅虎财经，每日自动更新，仅供学习参考",
   "sectors": [
     {
@@ -130,10 +130,10 @@ window.PANEL = {
               "name": "Meta",
               "code": "META",
               "market": "美股",
-              "pos52": 85.9,
-              "drawdown": -4.6,
-              "m1": 21.6,
-              "m3": 20.6
+              "pos52": 84.7,
+              "drawdown": -5.0,
+              "m1": 19.9,
+              "m3": 22.6
             },
             {
               "name": "特斯拉",
@@ -220,10 +220,10 @@ window.PANEL = {
               "name": "SK海力士",
               "code": "000660.KS",
               "market": "韩国",
-              "pos52": 54.5,
-              "drawdown": -39.1,
-              "m1": 11.3,
-              "m3": -26.7
+              "pos52": 52.8,
+              "drawdown": -40.6,
+              "m1": 5.3,
+              "m3": -26.0
             },
             {
               "name": "美光科技",
@@ -238,29 +238,29 @@ window.PANEL = {
               "name": "三星电子",
               "code": "005930",
               "market": "韩国",
-              "pos52": 69.5,
-              "drawdown": -22.9,
-              "m1": 11.7,
-              "m3": -9.8
+              "pos52": 64.9,
+              "drawdown": -26.3,
+              "m1": 4.5,
+              "m3": -16.0
             },
             {
               "name": "南方两倍做多海力士",
               "code": "07709",
               "market": "港股",
-              "pos52": 18.3,
-              "drawdown": -77.1,
-              "m1": 28.6,
-              "m3": -53.2
+              "pos52": 15.1,
+              "drawdown": -80.1,
+              "m1": -9.3,
+              "m3": -61.2
             },
             {
               "name": "Roundhill Memory ETF",
               "code": "DRAM",
               "market": "美股",
               "star": true,
-              "pos52": 64.0,
-              "drawdown": -23.6,
-              "m1": 10.1,
-              "m3": 1.8
+              "pos52": 60.0,
+              "drawdown": -26.3,
+              "m1": -0.3,
+              "m3": -4.1
             }
           ]
         },
@@ -271,28 +271,28 @@ window.PANEL = {
               "name": "铠侠",
               "code": "285A",
               "market": "日股",
-              "pos52": 47.0,
-              "drawdown": -50.2,
-              "m1": 4.9,
-              "m3": -35.0
+              "pos52": 47.6,
+              "drawdown": -49.6,
+              "m1": 0.7,
+              "m3": -32.8
             },
             {
               "name": "铠侠 ADR",
               "code": "KXIAY",
               "market": "美股",
-              "pos52": 46.7,
-              "drawdown": -50.2,
-              "m1": -5.6,
-              "m3": -26.2
+              "pos52": 46.0,
+              "drawdown": -50.8,
+              "m1": -7.9,
+              "m3": -32.2
             },
             {
               "name": "闪迪",
               "code": "SNDK",
               "market": "美股",
-              "pos52": 71.6,
-              "drawdown": -27.0,
-              "m1": 9.6,
-              "m3": 5.3
+              "pos52": 69.6,
+              "drawdown": -28.9,
+              "m1": -4.6,
+              "m3": -3.9
             }
           ]
         },
@@ -357,8 +357,8 @@ window.PANEL = {
               "market": "美股",
               "pos52": 100.0,
               "drawdown": 0.0,
-              "m1": 28.8,
-              "m3": 56.2
+              "m1": 28.6,
+              "m3": 60.3
             },
             {
               "name": "Fabrinet",
@@ -373,7 +373,7 @@ window.PANEL = {
               "name": "Ciena",
               "code": "CIEN",
               "market": "美股",
-              "pos52": 61.4,
+              "pos52": 61.1,
               "drawdown": -29.2,
               "m1": 38.2,
               "m3": 0.6
@@ -466,28 +466,28 @@ window.PANEL = {
               "name": "CoreWeave",
               "code": "CRWV",
               "market": "美股",
-              "pos52": 32.3,
-              "drawdown": -38.9,
-              "m1": 3.3,
-              "m3": 4.6
+              "pos52": 37.6,
+              "drawdown": -35.9,
+              "m1": 2.6,
+              "m3": 1.9
             },
             {
               "name": "Vertiv（供电散热）",
               "code": "VRT",
               "market": "美股",
-              "pos52": 45.9,
-              "drawdown": -32.6,
-              "m1": -5.6,
-              "m3": -17.0
+              "pos52": 45.7,
+              "drawdown": -32.7,
+              "m1": -9.7,
+              "m3": -20.3
             },
             {
               "name": "戴尔",
               "code": "DELL",
               "market": "美股",
-              "pos52": 92.4,
-              "drawdown": -6.1,
-              "m1": 7.0,
-              "m3": 32.6
+              "pos52": 97.0,
+              "drawdown": -2.4,
+              "m1": 9.5,
+              "m3": 33.1
             },
             {
               "name": "超微电脑",
