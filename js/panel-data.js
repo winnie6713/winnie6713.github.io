@@ -1,7 +1,7 @@
 // ===== 数据面板：由 scripts/fetch_data.py 自动生成，请勿手改 =====
 // 要改抓取哪些标的，编辑 scripts/tickers.json
 window.PANEL = {
-  "updated": "2026-10-09 01:32",
+  "updated": "2026-10-10 01:23",
   "note": "数据来自雅虎财经，每日自动更新，仅供学习参考",
   "sectors": [
     {
@@ -247,10 +247,10 @@ window.PANEL = {
               "name": "南方两倍做多海力士",
               "code": "07709",
               "market": "港股",
-              "pos52": 15.1,
-              "drawdown": -80.1,
-              "m1": -9.3,
-              "m3": -61.2
+              "pos52": 14.0,
+              "drawdown": -81.2,
+              "m1": -15.4,
+              "m3": -60.5
             },
             {
               "name": "Roundhill Memory ETF",
@@ -271,19 +271,19 @@ window.PANEL = {
               "name": "铠侠",
               "code": "285A",
               "market": "日股",
-              "pos52": 44.2,
-              "drawdown": -52.8,
-              "m1": -13.7,
-              "m3": -29.1
+              "pos52": 45.3,
+              "drawdown": -51.7,
+              "m1": -11.8,
+              "m3": -27.5
             },
             {
               "name": "铠侠 ADR",
               "code": "KXIAY",
               "market": "美股",
-              "pos52": 45.9,
-              "drawdown": -50.9,
-              "m1": -8.0,
-              "m3": -32.3
+              "pos52": 42.7,
+              "drawdown": -53.7,
+              "m1": -8.5,
+              "m3": -22.4
             },
             {
               "name": "闪迪",
@@ -326,10 +326,10 @@ window.PANEL = {
               "name": "江波龙",
               "code": "301308",
               "market": "A股",
-              "pos52": 21.8,
-              "drawdown": -60.1,
-              "m1": -21.8,
-              "m3": -53.3
+              "pos52": 20.9,
+              "drawdown": -60.7,
+              "m1": -21.6,
+              "m3": -58.3
             }
           ]
         }
@@ -387,19 +387,19 @@ window.PANEL = {
               "name": "中际旭创",
               "code": "300308",
               "market": "A股",
-              "pos52": 42.2,
-              "drawdown": -43.4,
-              "m1": -8.9,
-              "m3": -29.8
+              "pos52": 41.4,
+              "drawdown": -43.9,
+              "m1": -5.7,
+              "m3": -29.4
             },
             {
               "name": "新易盛",
               "code": "300502",
               "market": "A股",
-              "pos52": 42.2,
-              "drawdown": -38.0,
-              "m1": -6.0,
-              "m3": -28.0
+              "pos52": 40.2,
+              "drawdown": -39.4,
+              "m1": -4.3,
+              "m3": -27.0
             },
             {
               "name": "天孚通信",
@@ -407,8 +407,8 @@ window.PANEL = {
               "market": "A股",
               "pos52": 52.7,
               "drawdown": -33.6,
-              "m1": -6.5,
-              "m3": -5.8
+              "m1": -5.8,
+              "m3": -0.6
             }
           ]
         }
@@ -466,8 +466,8 @@ window.PANEL = {
               "name": "CoreWeave",
               "code": "CRWV",
               "market": "美股",
-              "pos52": 25.2,
-              "drawdown": -43.0,
+              "pos52": 25.7,
+              "drawdown": -42.4,
               "m1": -14.1,
               "m3": -8.2
             },
@@ -493,8 +493,8 @@ window.PANEL = {
               "name": "超微电脑",
               "code": "SMCI",
               "market": "美股",
-              "pos52": 59.4,
-              "drawdown": -26.2,
+              "pos52": 64.4,
+              "drawdown": -22.3,
               "m1": 9.9,
               "m3": 51.1
             }
