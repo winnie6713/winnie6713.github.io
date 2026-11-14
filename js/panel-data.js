@@ -1,7 +1,7 @@
 // ===== 数据面板：由 scripts/fetch_data.py 自动生成，请勿手改 =====
 // 要改抓取哪些标的，编辑 scripts/tickers.json
 window.PANEL = {
-  "updated": "2026-11-13 02:15",
+  "updated": "2026-11-14 01:53",
   "note": "数据来自雅虎财经，每日自动更新，仅供学习参考",
   "sectors": [
     {
@@ -15,8 +15,8 @@ window.PANEL = {
               "name": "标普500 ETF",
               "code": "SPY",
               "market": "美股",
-              "pos52": 87.2,
-              "drawdown": -2.5,
+              "pos52": 83.6,
+              "drawdown": -3.2,
               "m1": -2.3,
               "m3": -2.1
             },
@@ -24,28 +24,28 @@ window.PANEL = {
               "name": "纳指100 ETF",
               "code": "QQQ",
               "market": "美股",
-              "pos52": 65.8,
-              "drawdown": -9.1,
-              "m1": -7.2,
-              "m3": -5.6
+              "pos52": 60.6,
+              "drawdown": -10.5,
+              "m1": -6.6,
+              "m3": -6.8
             },
             {
               "name": "道指 ETF",
               "code": "DIA",
               "market": "美股",
-              "pos52": 82.2,
-              "drawdown": -3.1,
-              "m1": 1.6,
-              "m3": -2.2
+              "pos52": 80.8,
+              "drawdown": -3.3,
+              "m1": 0.4,
+              "m3": -1.7
             },
             {
               "name": "罗素2000 ETF",
               "code": "IWM",
               "market": "美股",
-              "pos52": 72.6,
-              "drawdown": -7.0,
-              "m1": 2.3,
-              "m3": -6.5
+              "pos52": 65.5,
+              "drawdown": -8.8,
+              "m1": 0.9,
+              "m3": -8.5
             }
           ]
         },
@@ -56,19 +56,19 @@ window.PANEL = {
               "name": "半导体 ETF",
               "code": "SMH",
               "market": "美股",
-              "pos52": 53.0,
-              "drawdown": -24.2,
-              "m1": -13.8,
-              "m3": -13.9
+              "pos52": 47.2,
+              "drawdown": -27.2,
+              "m1": -12.9,
+              "m3": -18.1
             },
             {
               "name": "科技 ETF",
               "code": "XLK",
               "market": "美股",
-              "pos52": 63.0,
-              "drawdown": -13.7,
-              "m1": -11.2,
-              "m3": -8.5
+              "pos52": 57.6,
+              "drawdown": -15.7,
+              "m1": -10.0,
+              "m3": -10.4
             }
           ]
         }
@@ -85,10 +85,10 @@ window.PANEL = {
               "name": "英伟达",
               "code": "NVDA",
               "market": "美股",
-              "pos52": 12.0,
-              "drawdown": -27.4,
-              "m1": -24.0,
-              "m3": -22.8
+              "pos52": 0.0,
+              "drawdown": -31.9,
+              "m1": -25.0,
+              "m3": -27.5
             },
             {
               "name": "苹果",
@@ -96,52 +96,52 @@ window.PANEL = {
               "market": "美股",
               "pos52": 100.0,
               "drawdown": 0.0,
-              "m1": 4.2,
-              "m3": 16.5
+              "m1": 4.3,
+              "m3": 16.7
             },
             {
               "name": "微软",
               "code": "MSFT",
               "market": "美股",
-              "pos52": 83.0,
-              "drawdown": -6.2,
-              "m1": -4.1,
-              "m3": 5.1
+              "pos52": 84.3,
+              "drawdown": -5.7,
+              "m1": -2.9,
+              "m3": 9.3
             },
             {
               "name": "谷歌",
               "code": "GOOGL",
               "market": "美股",
-              "pos52": 15.7,
-              "drawdown": -27.0,
-              "m1": -17.1,
-              "m3": -15.2
+              "pos52": 17.5,
+              "drawdown": -26.4,
+              "m1": -15.3,
+              "m3": -14.0
             },
             {
               "name": "亚马逊",
               "code": "AMZN",
               "market": "美股",
-              "pos52": 79.1,
-              "drawdown": -6.3,
-              "m1": 2.9,
-              "m3": 0.4
+              "pos52": 79.6,
+              "drawdown": -6.1,
+              "m1": 4.7,
+              "m3": 2.0
             },
             {
               "name": "Meta",
               "code": "META",
               "market": "美股",
-              "pos52": 41.1,
-              "drawdown": -19.1,
-              "m1": -17.5,
+              "pos52": 39.1,
+              "drawdown": -19.8,
+              "m1": -15.4,
               "m3": 5.8
             },
             {
               "name": "特斯拉",
               "code": "TSLA",
               "market": "美股",
-              "pos52": 48.3,
-              "drawdown": -20.2,
-              "m1": 4.2,
+              "pos52": 48.0,
+              "drawdown": -20.3,
+              "m1": 7.7,
               "m3": 15.0
             }
           ]
@@ -159,28 +159,28 @@ window.PANEL = {
               "name": "英伟达",
               "code": "NVDA",
               "market": "美股",
-              "pos52": 12.0,
-              "drawdown": -27.4,
-              "m1": -24.0,
-              "m3": -22.8
+              "pos52": 0.0,
+              "drawdown": -31.9,
+              "m1": -25.0,
+              "m3": -27.5
             },
             {
               "name": "AMD",
               "code": "AMD",
               "market": "美股",
-              "pos52": 78.9,
-              "drawdown": -14.9,
-              "m1": -8.7,
-              "m3": 14.5
+              "pos52": 74.8,
+              "drawdown": -17.8,
+              "m1": -5.0,
+              "m3": 5.5
             },
             {
               "name": "博通",
               "code": "AVGO",
               "market": "美股",
-              "pos52": 28.5,
-              "drawdown": -28.1,
-              "m1": -3.4,
-              "m3": -17.2
+              "pos52": 29.4,
+              "drawdown": -27.7,
+              "m1": 0.8,
+              "m3": -11.4
             }
           ]
         },
@@ -191,19 +191,19 @@ window.PANEL = {
               "name": "台积电",
               "code": "TSM",
               "market": "美股",
-              "pos52": 66.1,
-              "drawdown": -14.9,
-              "m1": -7.1,
-              "m3": -3.7
+              "pos52": 59.2,
+              "drawdown": -17.9,
+              "m1": -5.6,
+              "m3": -7.2
             },
             {
               "name": "英特尔",
               "code": "INTC",
               "market": "美股",
-              "pos52": 26.9,
-              "drawdown": -55.7,
-              "m1": -39.2,
-              "m3": -40.2
+              "pos52": 24.3,
+              "drawdown": -57.7,
+              "m1": -37.4,
+              "m3": -42.4
             }
           ]
         }
@@ -220,47 +220,47 @@ window.PANEL = {
               "name": "SK海力士",
               "code": "000660.KS",
               "market": "韩国",
-              "pos52": 31.7,
-              "drawdown": -56.2,
-              "m1": 1.3,
-              "m3": -10.2
+              "pos52": 29.1,
+              "drawdown": -58.3,
+              "m1": -3.6,
+              "m3": -14.6
             },
             {
               "name": "美光科技",
               "code": "MU",
               "market": "美股",
-              "pos52": 60.3,
-              "drawdown": -33.1,
-              "m1": -14.9,
-              "m3": -14.6
+              "pos52": 57.0,
+              "drawdown": -35.8,
+              "m1": -16.4,
+              "m3": -23.1
             },
             {
               "name": "三星电子",
               "code": "005930",
               "market": "韩国",
-              "pos52": 45.7,
-              "drawdown": -40.2,
-              "m1": 1.3,
-              "m3": -9.6
+              "pos52": 43.1,
+              "drawdown": -42.1,
+              "m1": -1.9,
+              "m3": -12.5
             },
             {
               "name": "南方两倍做多海力士",
               "code": "07709",
               "market": "港股",
-              "pos52": 4.0,
-              "drawdown": -90.6,
-              "m1": -32.7,
-              "m3": -47.7
+              "pos52": 3.5,
+              "drawdown": -91.1,
+              "m1": -35.8,
+              "m3": -50.1
             },
             {
               "name": "Roundhill Memory ETF",
               "code": "DRAM",
               "market": "美股",
               "star": true,
-              "pos52": 32.3,
-              "drawdown": -44.4,
-              "m1": -15.1,
-              "m3": -21.2
+              "pos52": 30.0,
+              "drawdown": -45.9,
+              "m1": -12.9,
+              "m3": -23.8
             }
           ]
         },
@@ -271,28 +271,28 @@ window.PANEL = {
               "name": "铠侠",
               "code": "285A",
               "market": "日股",
-              "pos52": 20.4,
-              "drawdown": -73.4,
-              "m1": -34.5,
-              "m3": -39.8
+              "pos52": 18.9,
+              "drawdown": -74.9,
+              "m1": -38.1,
+              "m3": -43.1
             },
             {
               "name": "铠侠 ADR",
               "code": "KXIAY",
               "market": "美股",
-              "pos52": 20.7,
-              "drawdown": -73.2,
-              "m1": -35.9,
-              "m3": -46.8
+              "pos52": 17.2,
+              "drawdown": -76.4,
+              "m1": -36.3,
+              "m3": -57.1
             },
             {
               "name": "闪迪",
               "code": "SNDK",
               "market": "美股",
-              "pos52": 36.6,
-              "drawdown": -58.1,
-              "m1": -34.0,
-              "m3": -36.0
+              "pos52": 34.7,
+              "drawdown": -59.9,
+              "m1": -33.2,
+              "m3": -42.9
             }
           ]
         },
@@ -303,19 +303,19 @@ window.PANEL = {
               "name": "希捷科技",
               "code": "STX",
               "market": "美股",
-              "pos52": 36.9,
-              "drawdown": -49.5,
-              "m1": -26.2,
-              "m3": -40.1
+              "pos52": 34.1,
+              "drawdown": -51.6,
+              "m1": -23.5,
+              "m3": -46.9
             },
             {
               "name": "西部数据",
               "code": "WDC",
               "market": "美股",
-              "pos52": 28.7,
-              "drawdown": -58.0,
-              "m1": -17.7,
-              "m3": -35.7
+              "pos52": 25.8,
+              "drawdown": -60.4,
+              "m1": -17.1,
+              "m3": -44.8
             }
           ]
         },
@@ -326,10 +326,10 @@ window.PANEL = {
               "name": "江波龙",
               "code": "301308",
               "market": "A股",
-              "pos52": 5.2,
-              "drawdown": -68.3,
-              "m1": -6.1,
-              "m3": -44.4
+              "pos52": 3.0,
+              "drawdown": -69.9,
+              "m1": -10.7,
+              "m3": -47.2
             }
           ]
         }
@@ -346,37 +346,37 @@ window.PANEL = {
               "name": "Coherent",
               "code": "COHR",
               "market": "美股",
-              "pos52": 34.0,
-              "drawdown": -45.1,
-              "m1": -19.1,
-              "m3": -28.3
+              "pos52": 28.3,
+              "drawdown": -48.9,
+              "m1": -12.9,
+              "m3": -37.9
             },
             {
               "name": "Lumentum",
               "code": "LITE",
               "market": "美股",
-              "pos52": 46.5,
-              "drawdown": -42.8,
-              "m1": -34.4,
-              "m3": -26.4
+              "pos52": 43.6,
+              "drawdown": -44.9,
+              "m1": -30.3,
+              "m3": -32.6
             },
             {
               "name": "Fabrinet",
               "code": "FN",
               "market": "美股",
-              "pos52": 16.8,
-              "drawdown": -50.6,
-              "m1": -13.7,
-              "m3": -34.9
+              "pos52": 7.7,
+              "drawdown": -56.1,
+              "m1": -14.9,
+              "m3": -45.2
             },
             {
               "name": "Ciena",
               "code": "CIEN",
               "market": "美股",
-              "pos52": 26.5,
-              "drawdown": -52.8,
-              "m1": -26.1,
-              "m3": -33.1
+              "pos52": 23.1,
+              "drawdown": -55.3,
+              "m1": -21.3,
+              "m3": -37.0
             }
           ]
         },
@@ -387,28 +387,28 @@ window.PANEL = {
               "name": "中际旭创",
               "code": "300308",
               "market": "A股",
-              "pos52": 5.4,
-              "drawdown": -63.9,
-              "m1": -24.1,
-              "m3": -42.2
+              "pos52": 2.0,
+              "drawdown": -66.2,
+              "m1": -29.0,
+              "m3": -46.0
             },
             {
               "name": "新易盛",
               "code": "300502",
               "market": "A股",
-              "pos52": 6.7,
-              "drawdown": -67.0,
-              "m1": -34.2,
-              "m3": -49.6
+              "pos52": 3.5,
+              "drawdown": -69.3,
+              "m1": -38.7,
+              "m3": -53.1
             },
             {
               "name": "天孚通信",
               "code": "300394",
               "market": "A股",
-              "pos52": 12.2,
-              "drawdown": -62.3,
-              "m1": -40.3,
-              "m3": -40.1
+              "pos52": 8.9,
+              "drawdown": -64.7,
+              "m1": -44.0,
+              "m3": -43.9
             }
           ]
         }
@@ -425,37 +425,37 @@ window.PANEL = {
               "name": "微软",
               "code": "MSFT",
               "market": "美股",
-              "pos52": 83.0,
-              "drawdown": -6.2,
-              "m1": -4.1,
-              "m3": 5.1
+              "pos52": 84.3,
+              "drawdown": -5.7,
+              "m1": -2.9,
+              "m3": 9.3
             },
             {
               "name": "谷歌",
               "code": "GOOGL",
               "market": "美股",
-              "pos52": 15.7,
-              "drawdown": -27.0,
-              "m1": -17.1,
-              "m3": -15.2
+              "pos52": 17.5,
+              "drawdown": -26.4,
+              "m1": -15.3,
+              "m3": -14.0
             },
             {
               "name": "亚马逊",
               "code": "AMZN",
               "market": "美股",
-              "pos52": 79.1,
-              "drawdown": -6.3,
-              "m1": 2.9,
-              "m3": 0.4
+              "pos52": 79.6,
+              "drawdown": -6.1,
+              "m1": 4.7,
+              "m3": 2.0
             },
             {
               "name": "甲骨文",
               "code": "ORCL",
               "market": "美股",
-              "pos52": 10.5,
-              "drawdown": -47.9,
-              "m1": -10.3,
-              "m3": -17.5
+              "pos52": 8.2,
+              "drawdown": -49.1,
+              "m1": -6.8,
+              "m3": -14.2
             }
           ]
         },
@@ -466,37 +466,37 @@ window.PANEL = {
               "name": "CoreWeave",
               "code": "CRWV",
               "market": "美股",
-              "pos52": 18.1,
-              "drawdown": -56.0,
-              "m1": -21.9,
-              "m3": -42.8
+              "pos52": 13.7,
+              "drawdown": -59.0,
+              "m1": -14.0,
+              "m3": -46.2
             },
             {
               "name": "Vertiv（供电散热）",
               "code": "VRT",
               "market": "美股",
-              "pos52": 25.1,
-              "drawdown": -45.1,
-              "m1": -13.0,
-              "m3": -28.0
+              "pos52": 26.5,
+              "drawdown": -44.3,
+              "m1": -5.9,
+              "m3": -28.6
             },
             {
               "name": "戴尔",
               "code": "DELL",
               "market": "美股",
-              "pos52": 55.2,
-              "drawdown": -36.4,
-              "m1": -34.6,
+              "pos52": 54.6,
+              "drawdown": -36.8,
+              "m1": -26.8,
               "m3": -24.3
             },
             {
               "name": "超微电脑",
               "code": "SMCI",
               "market": "美股",
-              "pos52": 33.4,
-              "drawdown": -39.3,
-              "m1": -22.1,
-              "m3": -22.3
+              "pos52": 21.4,
+              "drawdown": -46.4,
+              "m1": -23.4,
+              "m3": -29.8
             }
           ]
         }
